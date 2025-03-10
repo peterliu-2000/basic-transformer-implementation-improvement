@@ -1,0 +1,22 @@
+{
+    "pair_1": {
+        "vanilla_perplexity": 381.2477770525933,
+        "upgraded_perplexity": 302.220056090733
+    },
+    "pair_2": {
+        "vanilla_perplexity": 223.00222295246283,
+        "upgraded_perplexity": 166.8657183692765
+    },
+    "pair_3": {
+        "vanilla_perplexity": 473.4593826161857,
+        "upgraded_perplexity": 199.0408261418649
+    },
+    "pair_4": {
+        "vanilla_perplexity": 315.9167908912593,
+        "upgraded_perplexity": 257.5994622469207
+    },
+    "pair_5": {
+        "vanilla_perplexity": 677.078015154561,
+        "upgraded_perplexity": 251.15819323876627
+    }
+}
