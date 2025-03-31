@@ -58,7 +58,6 @@ def estimate_loss(model, eval_iters, context_window_size, device):
     return out
 
 import torch
-import torch.nn as nn
 
 class RotaryPositionalEmbedding:
     def __init__(self, head_dim, max_seq_len=2048, theta=10000):

@@ -104,7 +104,6 @@ class FeedForward(nn.Module):
     def forward(self, x):
         return self.net(x)
 
-
 class TransformerBlock(nn.Module):
     """ Transformer block: communication across sequence length, followed by communication across embedding space
         Uses multi-headed attention
